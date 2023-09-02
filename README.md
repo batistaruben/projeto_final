@@ -35,3 +35,24 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 After downloading and installing the given libraries should be done. May be necessary in some cases to install some drivers
 due to the fact that the port may not be correctly, in that case, download the Drivers of the corresponding ESP32 module.
+
+-------------------------------------------------------------------------------------------------------
+
+Arduino IDE Extra Libraries
+
+The sensors hardware need some libraries to work properly. Also, if you intend to run the given c++ code, you will need to have these libraries installed:
+
+- Adafruit BusIO by Adafruit (version 1.14.3)
+- Adafruit SHT31 by Adafruit (version 2.2.2)
+- ArduinoJson by Benoit (version 6.21.3)
+- AsyncTCP by dvarrel (version 1.1.4)
+- DFRobot_DHT11 by DFRobot (version 1.0.0)
+- DallasTemperature by Miles Burton (version 3.9.0)
+- ESPAsyncTCP by dvarrel (version 1.2.4)
+- Microfire_SHT3x by Microfire LLC (version 1.0.0)
+- OneWire by Jim Studt (version 2.3.7)
+- PubSubClient by Nick O'Leary (version 2.8)
+- SHT31 by Rob Tillaart (version 0.3.8)
+
+
+
