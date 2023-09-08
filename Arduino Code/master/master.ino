@@ -25,8 +25,8 @@ float temp1;
 float temp2; 
 float humid;
 
-const char* ssid = "MEO-50525D";
-const char* password = "C0D3B2D35F";
+const char* ssid = "";
+const char* password = "";
 //const char* mqtt_server = "192.168.1.88"; //Rasp-PI
 const char* mqtt_server = "192.168.1.72"; //PC
 const int mqtt_port = 1883;
